@@ -13,6 +13,8 @@ A high-performance pipeline designed to log, process, and analyze high-frequency
 * **Automated Reporting:** Generates PDF summaries detailing peak values, system anomalies, and flight stats.
 
 ## Installation
+```text
+
 git clone [https://github.com/your-username/sensor-data-recorder-and-analysis.git](https://github.com/your-username/sensor-data-recorder-and-analysis.git)
 cd sensor-data-recorder-and-analysis
 pip install -r requirements.txt
